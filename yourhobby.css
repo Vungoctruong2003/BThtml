@@ -1,0 +1,16 @@
+table{
+    border-width: 20px;
+    border-color: aqua;
+    border-style: solid;
+
+}
+#x{
+    color:white;
+    background-color: orangered;
+}
+#y{
+color:darkblue;
+}
+#z{
+    color:orange;
+}

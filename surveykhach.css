@@ -1,0 +1,6 @@
+#ff{
+ border-collapse: collapse;
+}
+#zz:nth-child(odd) {
+    background-color: #dddddd;
+}

@@ -1,0 +1,13 @@
+table{
+border-collapse: collapse;
+    margin: auto;
+}
+h1 {
+    text-align: center;
+}
+#aaa{
+    background-color: yellow;
+}
+#bbb{
+    background-color: #dddddd;
+}

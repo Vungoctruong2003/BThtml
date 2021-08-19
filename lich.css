@@ -1,0 +1,43 @@
+#b1{
+    margin: auto;
+}
+#cn{
+    background-color: orangered;
+
+}
+#th{
+    background-color: orange;
+}
+#tb{
+    background-color: blue;
+}
+h1{
+    text-align: center;
+    color: blue;
+}
+
+#do{
+    color: red;
+}
+#bl{
+    color: blue;
+}
+td{
+    height:40px;
+    width: 100px;
+}
+th{
+    height:40px;
+    width: 100px;
+}
+#b2{
+    margin: auto;
+    font-size:35px
+
+}
+#zz{
+    color: blue;
+}
+#hh {
+    color: red;
+}

@@ -1,0 +1,27 @@
+table{
+    border: 50px solid;
+    border-collapse: collapse;
+    width: 600px;
+    height: 600px;
+    margin: auto;
+    border-color: orange;
+
+}
+td{
+    border: 1px solid;
+    border-collapse: collapse;
+    width: 60px;
+    height: 60px;
+}
+tr:nth-child(even) td:nth-child(odd){
+    background: black;
+}
+tr:nth-child(odd) td:nth-child(even){
+    background: black;
+}
+#v{
+    background-color: orange;
+}
+#q{
+    background-color: orange;
+}
